@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **java, minecraft or turtles**
 
-- 📫 How to reach me: **discord turtlegamer. **
+- 📫 How to reach me **discord turtlegamer.**
 
 - ⚡ Fun fact **i like turtles**
 

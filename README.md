@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **minecraft plug-ins**
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **c**
 
 - 💬 Ask me about **java, minecraft or turtles**
 

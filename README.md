@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working on **minecraft plug-ins**
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **rust!?**
 
 - 💬 Ask me about **java, minecraft or turtles**
 
-- 📫 How to reach me **discord turtlegamer.**
-
-- ⚡ Fun fact **i like turtles**
+- ⚡ Fun fact **There are about 356 species of turtles in the world**
 
 
 <p align="left">

@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm turtle</h1>
-<h3 align="center">A passionate developer from the Netherlands</h3>
+<h1 align="center">Hi, I'm turtle</h1>
+<h3 align="center">A developer from the Netherlands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turtlegamerw&label=Profile%20views&color=0e75b6&style=flat" alt="turtlegamerw" /> </p>
 
 - 🔭 I’m currently working on **minecraft plug-ins**
 
-- 🌱 I’m currently learning **c++!?**
+- 🌱 I’m currently learning **nothing tbh :3**
 
 - 💬 Ask me about **java, minecraft or turtles**
 
